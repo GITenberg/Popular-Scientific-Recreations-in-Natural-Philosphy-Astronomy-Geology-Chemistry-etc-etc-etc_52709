@@ -1,0 +1,27 @@
+_repo: Popular-Scientific-Recreations-in-Natural-Philosphy-Astronomy-Geology-Chemistry-etc-etc-etc_52709
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tissandier, Gaston
+    birthdate: 1843
+    deathdate: 1899
+    gutenberg_agent_id: '3806'
+    url: http://www.gutenberg.org/2009/agents/3806
+    wikipedia: http://en.wikipedia.org/wiki/Gaston_Tissandier
+description: ''
+gutenberg_issued: '2016-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Scientific recreations'
+- GITenberg
+title: 'Popular Scientific Recreations
+
+  in Natural Philosphy, Astronomy, Geology, Chemistry, etc., etc., etc.'
+url: http://www.gutenberg.org/ebooks/52709
